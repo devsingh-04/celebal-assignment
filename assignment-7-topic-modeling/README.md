@@ -1,3 +1,17 @@
+## 🧠 Assignment 7 – Topic Modeling with KMeans and LDA
+
+Explore unsupervised topic modeling on the 20 Newsgroups dataset using both **TF-IDF + KMeans** and **CountVectorizer + LDA**.
+
+👉 [View Assignment 7 Folder](assignment-7-topic-modeling/)
+
+📊 Sample Output:
+![t-SNE Plot](assignment-7-topic-modeling/output/visualizations/kmeans_tsne.png)
+
+
+![Demo](assignment-7-topic-modeling/output/visualizations/demo.gif)
+
+
+
 # 🧠 Topic Modeling using KMeans & LDA | 20 Newsgroups Dataset
 
 This project demonstrates unsupervised topic modeling using **KMeans Clustering** and **Latent Dirichlet Allocation (LDA)** on the classic `20 Newsgroups` text corpus. It covers end-to-end preprocessing, modeling, and visualization.
